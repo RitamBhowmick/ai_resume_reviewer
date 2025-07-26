@@ -20,7 +20,6 @@ An intelligent AI-powered tool that reviews resumes and provides actionable feed
 - **Frontend**: React.js, Tailwind CSS  
 - **Backend**: Puter.js  
 - **AI Integration**: OpenAI GPT API  
-- **File Handling**: `pdf-parse`, `multer`  
 - **Deployment**: Vercel
 
 - ## 🚀 Getting Started
